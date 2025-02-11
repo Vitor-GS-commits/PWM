@@ -94,7 +94,7 @@ git clone <URL-do-repositório>
 ## Vídeo Demonstrativo
 
 ```plaintext
-- Link do Vídeo: [Demonstração do Projeto ](https://drive.google.com/file/d/1xfnBOhzBqg78iXBLmlHP3vmtSrDLGukA/view?usp=sharing) 
+- Link do Vídeo: https://drive.google.com/file/d/1xfnBOhzBqg78iXBLmlHP3vmtSrDLGukA/view?usp=sharing
 ```
 
 ## Considerações Finais
